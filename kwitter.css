@@ -1,0 +1,12 @@
+html, body{
+    height:100%;
+    margin: 0;
+    text-align: center;
+}
+
+body{
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+    background: rgb(0,255,231);
+background: linear-gradient(90deg, rgba(0,255,231,1) 0%, rgba(14,161,237,1) 50%, rgba(23,83,221,1) 100%);
+}
